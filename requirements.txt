@@ -1,0 +1,5 @@
+flask
+colorlog
+psycopg
+psycopg_pool
+"psycopg[binary]"
